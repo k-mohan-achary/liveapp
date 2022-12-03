@@ -1,0 +1,95 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    /* overflow-x: hidden; */
+     
+}
+body
+{
+ background-color:#1B0E38;
+}
+.back
+{
+    height: 500px;
+    width: 100%;
+}
+.nav{
+	margin-top:40px;
+}
+.nav ul li {
+    color:#fff;
+}
+.nav ul li a{
+	margin-left:5px;
+	font-size:18px;
+    text-decoration: none;
+    color:#fff;    
+	/* color:#f8b400; */
+}
+.menu{
+	margin-top:-40px;
+}
+.section1{
+	height:500px;
+	
+}
+.section1 h1{
+	font-size:70px;
+	margin-top:140px;
+	color:white;
+}
+.sport{
+	padding-top:80px;
+	
+}
+.sport h1{
+	font-weight:bold;
+	color:white;
+}
+.sport p{
+	font-weight:400px;
+	font-weight:bold;
+	color:white;
+}
+@media (max-width: 320px){
+    .sport{
+        margin-top:00px !important; 
+    }
+    .three{
+        padding-top:300px !important; 
+    }
+    }
+    @media (max-width: 375px){
+        .sport{
+            margin-top:00px !important; 
+        }
+        .three{
+            padding-top:300px !important; 
+        }
+        }    
+    .fle{
+        
+        display:flex;
+        justify-content:space-between;
+        
+    }
+    .fle div{
+        width:30%;
+        border:1px solid black;
+    }
+    .three h3{
+         color:#fff
+    }
+    .three p{
+        color:#fff
+   }
+   .footer{
+    height: 500px;
+   }
+   .footer p{
+    font-size: 20px;
+   }
+   .flogo{
+    margin-top: 50px;
+    margin-left: 400px;
+   }

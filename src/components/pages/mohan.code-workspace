@@ -1,0 +1,25 @@
+{
+	"folders": [
+		{
+			"path": "../../../../../mohan"
+		},
+		{
+			"path": "../../../../../mohan1"
+		},
+		{
+			"path": "../../../../../mohan2"
+		},
+		{
+			"path": "../../../.."
+		},
+		{
+			"path": "../../../../../task-14-to-21"
+		},
+		{
+			"path": "../../../../../dbreact"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "mohan1"
+	}
+}
