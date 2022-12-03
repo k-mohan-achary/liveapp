@@ -1,18 +1,17 @@
 {
   "files": {
     "main.css": "/liveapp/static/css/main.9fed9f49.css",
-    "main.js": "/liveapp/static/js/main.4e99dae6.js",
+    "main.js": "/liveapp/static/js/main.dbb8e0bb.js",
     "static/js/787.843f5ad5.chunk.js": "/liveapp/static/js/787.843f5ad5.chunk.js",
     "static/media/icon_header.png": "/liveapp/static/media/icon_header.b3037079a691eab18038.png",
-    "static/media/sportsverse-1.png": "/liveapp/static/media/sportsverse-1.feecbab22c7e869336c4.png",
     "static/media/templedao.png": "/liveapp/static/media/templedao.b352c576de11d326327b.png",
     "index.html": "/liveapp/index.html",
     "main.9fed9f49.css.map": "/liveapp/static/css/main.9fed9f49.css.map",
-    "main.4e99dae6.js.map": "/liveapp/static/js/main.4e99dae6.js.map",
+    "main.dbb8e0bb.js.map": "/liveapp/static/js/main.dbb8e0bb.js.map",
     "787.843f5ad5.chunk.js.map": "/liveapp/static/js/787.843f5ad5.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.9fed9f49.css",
-    "static/js/main.4e99dae6.js"
+    "static/js/main.dbb8e0bb.js"
   ]
 }
