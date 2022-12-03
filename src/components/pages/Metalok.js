@@ -1,6 +1,6 @@
 import React from 'react'
 
-import logo from "../assets/image-1@2x.png"
+// import logo from "../assets/image-1@2x.png"
 //import background from "../assets/bg-1.png"
 import globe from "../assets/icon_header.png"
 import "../stylesheets/metalok.css"
