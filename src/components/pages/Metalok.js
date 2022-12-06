@@ -4,7 +4,7 @@ import React from 'react'
 //import background from "../assets/bg-1.png"
 import globe from "../assets/icon_header.png"
 import "../stylesheets/metalok.css"
-// import { Globe } from './Globe'
+import { Globe } from './Globe'
 import { Cube } from './Cube'
 import { Header } from './Header'
 import { Footer } from './Footer'
@@ -51,7 +51,7 @@ const Metalok = () => {
 
       </section>
 
-      {/* <Globe /> */}
+      <Globe />
       <Cube />
       <Footer/>
       
